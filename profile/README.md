@@ -2,16 +2,16 @@
 
 <div align="center">
 
-![Stratax Banner](https://via.placeholder.com/1200x300/4A90E2/FFFFFF?text=STRATAX) <!-- Replace with actual banner -->
+![Stratax Banner](images/logo-text-rounded.png) <!-- Replace with actual banner -->
 
 **Decentralized Leveraged Positions on Ethereum**
 
 Amplify your gains with up to 5x leverage on any supported asset
 
 [![Website](https://img.shields.io/badge/🌐_Website-Coming_Soon-blue)]() <!-- Add URL -->
-[![Docs](https://img.shields.io/badge/📚_Docs-GitBook-success)]() <!-- Add GitBook URL -->
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)]() <!-- Add Twitter -->
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord)]() <!-- Add Discord -->
+[![Docs](https://img.shields.io/badge/📚_Docs-GitBook-success)](https://stratax.gitbook.io/stratax-docs/) <!-- Add GitBook URL -->
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://x.com/stratax_trade) <!-- Add Twitter -->
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord)](https://discord.gg/ekdnKGKGnq) <!-- Add Discord -->
 
 </div>
 
@@ -71,7 +71,7 @@ forge test
 | [contracts](https://github.com/Stratax-Trade/contracts) | Core smart contracts      | ✅ Active      |
 | [app]()                                                 | Frontend dApp             | 🚧 Coming Soon |
 | [sdk]()                                                 | JavaScript/TypeScript SDK | 🚧 Coming Soon |
-| [docs]()                                                | Documentation & guides    | ✅ Active      |
+| [docs](https://stratax.gitbook.io/stratax-docs/)        | Documentation & guides    | ✅ Active      |
 
 ## 🏛️ Architecture
 
@@ -165,10 +165,10 @@ _More assets coming soon_
 
 Join our community to stay updated!
 
-- **Twitter**: [Follow us]() <!-- Add Twitter -->
-- **Discord**: [Join server]() <!-- Add Discord -->
+- **Twitter**: [Follow us](https://x.com/stratax_trade) <!-- Add Twitter -->
+- **Discord**: [Join server](https://discord.gg/ekdnKGKGnq) <!-- Add Discord -->
 - **GitHub**: [Star & contribute](https://github.com/Stratax-Trade)
-- **Documentation**: [Read the docs]() <!-- Add GitBook -->
+- **Documentation**: [Read the docs](https://stratax.gitbook.io/stratax-docs/) <!-- Add GitBook -->
 - **Blog**: [Coming Soon]() <!-- Add Medium/Mirror -->
 
 ## 🤝 Contributing
@@ -194,6 +194,6 @@ UNLICENSED - See individual repositories for details.
 
 **Built with ❤️ by the Stratax team**
 
-[Website]() • [Docs]() • [Twitter]() • [Discord]()
+[Website]() • [Docs](https://stratax.gitbook.io/stratax-docs/) • [Twitter](https://x.com/stratax_trade) • [Discord](https://discord.gg/ekdnKGKGnq)
 
 </div>
