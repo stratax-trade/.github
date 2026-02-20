@@ -8,7 +8,7 @@
 
 Amplify your gains with up to 5x leverage on any supported asset
 
-[![Website](https://img.shields.io/badge/🌐_Website-Coming_Soon-blue)]() <!-- Add URL -->
+[![Website](https://img.shields.io/badge/🌐_Website-Coming_Soon-blue)](https://stratax.trade) <!-- Add URL -->
 [![Docs](https://img.shields.io/badge/📚_Docs-GitBook-success)](https://stratax.gitbook.io/stratax-docs/) <!-- Add GitBook URL -->
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://x.com/stratax_trade) <!-- Add Twitter -->
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord)](https://discord.gg/ekdnKGKGnq) <!-- Add Discord -->
@@ -62,14 +62,14 @@ forge install
 forge test
 ```
 
-📖 **Full Documentation**: [GitBook]() <!-- Add GitBook URL -->
+📖 **Full Documentation**: [GitBook](https://stratax.gitbook.io/stratax-docs/) <!-- Add GitBook URL -->
 
 ## 📦 Repositories
 
 | Repository                                              | Description               | Status         |
 | ------------------------------------------------------- | ------------------------- | -------------- |
 | [contracts](https://github.com/Stratax-Trade/contracts) | Core smart contracts      | ✅ Active      |
-| [app]()                                                 | Frontend dApp             | 🚧 Coming Soon |
+| [app](https://stratax.trade)                            | Frontend dApp             | 🚧 Coming Soon |
 | [sdk]()                                                 | JavaScript/TypeScript SDK | 🚧 Coming Soon |
 | [docs](https://stratax.gitbook.io/stratax-docs/)        | Documentation & guides    | ✅ Active      |
 
@@ -194,6 +194,6 @@ UNLICENSED - See individual repositories for details.
 
 **Built with ❤️ by the Stratax team**
 
-[Website]() • [Docs](https://stratax.gitbook.io/stratax-docs/) • [Twitter](https://x.com/stratax_trade) • [Discord](https://discord.gg/ekdnKGKGnq)
+[Website](https://stratax.trade) • [Docs](https://stratax.gitbook.io/stratax-docs/) • [Twitter](https://x.com/stratax_trade) • [Discord](https://discord.gg/ekdnKGKGnq)
 
 </div>
