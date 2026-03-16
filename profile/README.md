@@ -8,7 +8,7 @@
 
 Amplify your gains with up to 5x leverage on any supported asset
 
-[![Website](https://img.shields.io/badge/🌐_Website-Coming_Soon-blue)](https://stratax.trade) <!-- Add URL -->
+[![Website](https://img.shields.io/badge/🌐_Website)](https://stratax.trade) <!-- Add URL -->
 [![Docs](https://img.shields.io/badge/📚_Docs-GitBook-success)](https://stratax.gitbook.io/stratax-docs/) <!-- Add GitBook URL -->
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://x.com/stratax_trade) <!-- Add Twitter -->
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord)](https://discord.gg/ekdnKGKGnq) <!-- Add Discord -->
@@ -69,8 +69,7 @@ forge test
 | Repository                                              | Description               | Status         |
 | ------------------------------------------------------- | ------------------------- | -------------- |
 | [contracts](https://github.com/Stratax-Trade/contracts) | Core smart contracts      | ✅ Active      |
-| [app](https://stratax.trade)                            | Frontend dApp             | 🚧 Coming Soon |
-| [sdk]()                                                 | JavaScript/TypeScript SDK | 🚧 Coming Soon |
+| [app](https://stratax.trade)                            | Frontend dApp             | ✅ Active |
 | [docs](https://stratax.gitbook.io/stratax-docs/)        | Documentation & guides    | ✅ Active      |
 
 ## 🏛️ Architecture
@@ -115,7 +114,7 @@ forge test
 | USDC  | ~4.6x        | ✅             |
 | DAI   | ~3.8x        | ✅             |
 
-_More assets coming soon_
+Any asset supported by Aave can be implemented
 
 ## 💰 Protocol Fees
 
@@ -169,7 +168,7 @@ Join our community to stay updated!
 - **Discord**: [Join server](https://discord.gg/ekdnKGKGnq) <!-- Add Discord -->
 - **GitHub**: [Star & contribute](https://github.com/Stratax-Trade)
 - **Documentation**: [Read the docs](https://stratax.gitbook.io/stratax-docs/) <!-- Add GitBook -->
-- **Blog**: [Coming Soon]() <!-- Add Medium/Mirror -->
+
 
 ## 🤝 Contributing
 
