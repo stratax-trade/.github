@@ -8,7 +8,7 @@
 
 Amplify your gains with up to 5x leverage on any supported asset
 
-[![Website](https://img.shields.io/badge/🌐Website-Live)](https://stratax.trade) <!-- Add URL -->
+[![Website](https://img.shields.io/badge/🌐Website-Live-blue)](https://stratax.trade) <!-- Add URL -->
 [![Docs](https://img.shields.io/badge/📚_Docs-GitBook-success)](https://stratax.gitbook.io/stratax-docs/) <!-- Add GitBook URL -->
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://x.com/stratax_trade) <!-- Add Twitter -->
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord)](https://discord.gg/ekdnKGKGnq) <!-- Add Discord -->
